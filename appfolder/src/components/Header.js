@@ -13,7 +13,7 @@ const NavBar = props => {
       {...props}
       boxShadow="2xl"
       bg="#3E3C3C"
-      borderRadius="40px"
+      borderBottomRadius="40"
       p={2}
     >
       <Logo w="100px" pl={3} />
